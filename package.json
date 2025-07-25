@@ -1,0 +1,7 @@
+{
+  "packageType": "app",
+  "appName": "WhatsApp Web",
+  "appPath": "app/index.html",
+  "keys": ["ArrowLeft", "ArrowRight", "Enter"],
+  "serviceFile": "service.js"
+}
